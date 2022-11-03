@@ -1,2 +1,2 @@
 https://google.com
-https://birdseeds.xyz
+https://redirecttourl.glitch.me/
