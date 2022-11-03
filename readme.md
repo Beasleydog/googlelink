@@ -1,2 +1,2 @@
 https://google.com
-https://terbium.ga
+https://birdseeds.xyz
